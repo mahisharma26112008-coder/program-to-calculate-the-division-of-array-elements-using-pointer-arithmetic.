@@ -1,0 +1,1 @@
+# program-to-calculate-the-division-of-array-elements-using-pointer-arithmetic.
